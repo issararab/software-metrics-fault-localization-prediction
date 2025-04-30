@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.6.1" timestamp="2018-07-09T14:31:43.115">
+<file name="C:\Users\bombarli\Desktop\workspace2\CMSystem\src\main\java\CMSystem\CMSRunner.java">
+<violation beginline="17" endline="17" begincolumn="24" endcolumn="30" rule="UnusedPrivateField" ruleset="Unused Code" package="CMSystem" class="CMSRunner" variable="csvPath" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'csvPath'.
+</violation>
+<violation beginline="50" endline="50" begincolumn="41" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="53" endline="53" begincolumn="48" endcolumn="66" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="75" endline="75" begincolumn="41" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="78" endline="78" begincolumn="48" endcolumn="66" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="100" endline="100" begincolumn="41" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="103" endline="103" begincolumn="48" endcolumn="66" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="125" endline="125" begincolumn="41" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="128" endline="128" begincolumn="48" endcolumn="66" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="150" endline="150" begincolumn="41" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="153" endline="153" begincolumn="48" endcolumn="66" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="175" endline="175" begincolumn="41" endcolumn="59" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="178" endline="178" begincolumn="48" endcolumn="66" rule="UselessParentheses" ruleset="Unnecessary" package="CMSystem" class="CMSRunner" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\bombarli\Desktop\workspace2\CMSystem\src\main\java\ClassPackage\AstExplorerVisitor.java">
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="22" rule="ImportFromSamePackage" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#ImportFromSamePackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+<violation beginline="12" endline="12" begincolumn="8" endcolumn="42" rule="DuplicateImports" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#DuplicateImports" priority="4">
+Avoid duplicate imports such as 'org.eclipse.jdt.core.dom.ASTVisitor'
+</violation>
+<violation beginline="18" endline="18" begincolumn="23" endcolumn="44" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="19" endline="19" begincolumn="23" endcolumn="41" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="20" endline="20" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="21" endline="21" begincolumn="23" endcolumn="50" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="23" endline="23" begincolumn="24" endcolumn="45" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="24" endline="24" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="25" endline="25" begincolumn="24" endcolumn="41" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="26" endline="26" begincolumn="24" endcolumn="51" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="52" endline="52" begincolumn="25" endcolumn="35" rule="UnusedPrivateField" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" variable="maxDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'maxDataFlow'.
+</violation>
+<violation beginline="54" endline="54" begincolumn="25" endcolumn="36" rule="UnusedPrivateField" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" variable="maxDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'maxDataUsage'.
+</violation>
+<violation beginline="56" endline="56" begincolumn="9" endcolumn="27" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="57" endline="57" begincolumn="25" endcolumn="33" rule="UnusedPrivateField" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" variable="inOutNull" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'inOutNull'.
+</violation>
+<violation beginline="66" endline="66" begincolumn="42" endcolumn="63" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="67" endline="67" begincolumn="42" endcolumn="60" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="68" endline="68" begincolumn="42" endcolumn="59" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="69" endline="69" begincolumn="42" endcolumn="69" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="71" endline="71" begincolumn="45" endcolumn="66" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="72" endline="72" begincolumn="45" endcolumn="63" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="73" endline="73" begincolumn="45" endcolumn="62" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="74" endline="74" begincolumn="45" endcolumn="72" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="AstExplorerVisitor" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="89" endline="89" begincolumn="23" endcolumn="50" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="getCunitsList" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="94" endline="94" begincolumn="42" endcolumn="69" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="setCunitsList" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="99" endline="99" begincolumn="23" endcolumn="41" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="getMethodsList" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="104" endline="104" begincolumn="43" endcolumn="61" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="setMethodsList" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="109" endline="109" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="getClassesList" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="114" endline="114" begincolumn="43" endcolumn="60" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="setClassesList" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="119" endline="119" begincolumn="23" endcolumn="44" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="getStatementsList" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="124" endline="124" begincolumn="46" endcolumn="67" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="setStatementsList" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="129" endline="129" begincolumn="22" endcolumn="43" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="getStStack" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="134" endline="134" begincolumn="22" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="getMethodsStack" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="139" endline="139" begincolumn="22" endcolumn="39" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="getClassesStack" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="144" endline="144" begincolumn="22" endcolumn="49" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="getCuStack" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="149" endline="149" begincolumn="38" endcolumn="59" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="setStStack" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="154" endline="154" begincolumn="43" endcolumn="61" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="setMethodsStack" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="159" endline="159" begincolumn="43" endcolumn="60" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="setClassesStack" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="164" endline="164" begincolumn="38" endcolumn="65" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="setCuStack" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="184" endline="184" begincolumn="25" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="preVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="185" endline="185" begincolumn="45" endcolumn="66" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="preVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="194" endline="194" begincolumn="25" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="preVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="194" endline="194" begincolumn="52" endcolumn="69" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="preVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="204" endline="204" begincolumn="25" endcolumn="43" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="preVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="205" endline="205" begincolumn="45" endcolumn="63" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="preVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="216" endline="216" begincolumn="25" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="preVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="217" endline="217" begincolumn="45" endcolumn="72" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="preVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="285" endline="285" begincolumn="25" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Statement' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="308" endline="308" begincolumn="37" endcolumn="52" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalOfOperators'.
+</violation>
+<violation beginline="309" endline="309" begincolumn="37" endcolumn="54" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="stTotalOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'stTotalOfOperators'.
+</violation>
+<violation beginline="313" endline="313" begincolumn="37" endcolumn="49" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalOfLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalOfLevels'.
+</violation>
+<violation beginline="314" endline="314" begincolumn="37" endcolumn="51" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="stTotalOflevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'stTotalOflevels'.
+</violation>
+<violation beginline="318" endline="318" begincolumn="37" endcolumn="51" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalOfDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalOfDataFlow'.
+</violation>
+<violation beginline="319" endline="319" begincolumn="37" endcolumn="53" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="stTotalOfDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'stTotalOfDataFlow'.
+</violation>
+<violation beginline="323" endline="323" begincolumn="37" endcolumn="52" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalOfDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalOfDataUsage'.
+</violation>
+<violation beginline="324" endline="324" begincolumn="37" endcolumn="54" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="stTotalOfDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'stTotalOfDataUsage'.
+</violation>
+<violation beginline="337" endline="337" begincolumn="25" endcolumn="43" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="339" endline="339" begincolumn="29" endcolumn="42" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOfOperators'.
+</violation>
+<violation beginline="342" endline="342" begincolumn="29" endcolumn="39" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOfLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOfLevels'.
+</violation>
+<violation beginline="345" endline="345" begincolumn="29" endcolumn="41" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOfDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOfDataFlow'.
+</violation>
+<violation beginline="348" endline="348" begincolumn="29" endcolumn="42" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOfDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOfDataUsage'.
+</violation>
+<violation beginline="352" endline="352" begincolumn="29" endcolumn="44" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalOfOperators'.
+</violation>
+<violation beginline="353" endline="353" begincolumn="29" endcolumn="41" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalOfLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalOfLevels'.
+</violation>
+<violation beginline="365" endline="365" begincolumn="25" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="368" endline="368" begincolumn="29" endcolumn="49" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalOfOperators'.
+</violation>
+<violation beginline="369" endline="369" begincolumn="29" endcolumn="55" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="methodClassTotalOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'methodClassTotalOfOperators'.
+</violation>
+<violation beginline="373" endline="373" begincolumn="29" endcolumn="54" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalOfMaxOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalOfMaxOfOperators'.
+</violation>
+<violation beginline="374" endline="374" begincolumn="29" endcolumn="60" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="methodClassTotalOfMaxOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'methodClassTotalOfMaxOfOperators'.
+</violation>
+<violation beginline="378" endline="378" begincolumn="29" endcolumn="46" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalOfLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalOfLevels'.
+</violation>
+<violation beginline="379" endline="379" begincolumn="29" endcolumn="52" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="methodClassTotalOfLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'methodClassTotalOfLevels'.
+</violation>
+<violation beginline="383" endline="383" begincolumn="29" endcolumn="51" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalOfMaxOfLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalOfMaxOfLevels'.
+</violation>
+<violation beginline="384" endline="384" begincolumn="29" endcolumn="58" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="methodClassTotalOfsMaxOfLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'methodClassTotalOfsMaxOfLevels'.
+</violation>
+<violation beginline="388" endline="388" begincolumn="29" endcolumn="48" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalOfDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalOfDataFlow'.
+</violation>
+<violation beginline="389" endline="389" begincolumn="29" endcolumn="54" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="methodClassTotalOfDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'methodClassTotalOfDataFlow'.
+</violation>
+<violation beginline="393" endline="393" begincolumn="29" endcolumn="53" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalOfMaxOfDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalOfMaxOfDataFlow'.
+</violation>
+<violation beginline="398" endline="398" begincolumn="29" endcolumn="49" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalOfDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalOfDataUsage'.
+</violation>
+<violation beginline="399" endline="399" begincolumn="29" endcolumn="55" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="methodClassTotalOfDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'methodClassTotalOfDataUsage'.
+</violation>
+<violation beginline="403" endline="403" begincolumn="29" endcolumn="54" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalOfMaxOfDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalOfMaxOfDataUsage'.
+</violation>
+<violation beginline="404" endline="404" begincolumn="29" endcolumn="61" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="methodClassTotalOfsMaxOfDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'methodClassTotalOfsMaxOfDataUsage'.
+</violation>
+<violation beginline="408" endline="408" begincolumn="29" endcolumn="34" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOps" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOps'.
+</violation>
+<violation beginline="410" endline="412" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="415" endline="415" begincolumn="29" endcolumn="41" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOfTotalOps" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOfTotalOps'.
+</violation>
+<violation beginline="416" endline="416" begincolumn="29" endcolumn="38" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalOfOps" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalOfOps'.
+</violation>
+<violation beginline="418" endline="420" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="423" endline="423" begincolumn="29" endcolumn="37" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxLevels'.
+</violation>
+<violation beginline="425" endline="427" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="430" endline="430" begincolumn="29" endcolumn="44" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOfTotalLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOfTotalLevels'.
+</violation>
+<violation beginline="431" endline="431" begincolumn="29" endcolumn="39" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalLevels" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalLevels'.
+</violation>
+<violation beginline="433" endline="435" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="438" endline="438" begincolumn="29" endcolumn="33" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxDF" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxDF'.
+</violation>
+<violation beginline="440" endline="442" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="445" endline="445" begincolumn="29" endcolumn="46" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOfTotalDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOfTotalDataFlow'.
+</violation>
+<violation beginline="446" endline="446" begincolumn="29" endcolumn="41" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalDataFlow" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalDataFlow'.
+</violation>
+<violation beginline="448" endline="450" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="453" endline="453" begincolumn="29" endcolumn="33" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxDU" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxDU'.
+</violation>
+<violation beginline="455" endline="457" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="460" endline="460" begincolumn="29" endcolumn="47" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxOfTotalDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxOfTotalDataUsage'.
+</violation>
+<violation beginline="461" endline="461" begincolumn="29" endcolumn="42" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalDataUsage" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalDataUsage'.
+</violation>
+<violation beginline="463" endline="465" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="468" endline="468" begincolumn="29" endcolumn="42" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="maxMethodCalls" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'maxMethodCalls'.
+</violation>
+<violation beginline="469" endline="469" begincolumn="29" endcolumn="44" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="totalMethodCalls" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'totalMethodCalls'.
+</violation>
+<violation beginline="471" endline="473" begincolumn="25" endcolumn="25" rule="EmptyStatementBlock" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyStatementBlock" priority="3">
+Avoid empty block statements.
+</violation>
+<violation beginline="476" endline="476" begincolumn="29" endcolumn="49" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="classTotalMethodCalls" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'classTotalMethodCalls'.
+</violation>
+<violation beginline="488" endline="488" begincolumn="25" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="496" endline="496" begincolumn="29" endcolumn="33" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="inOut" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'inOut'.
+</violation>
+<violation beginline="501" endline="501" begincolumn="29" endcolumn="49" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="clazzTotalOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'clazzTotalOfOperators'.
+</violation>
+<violation beginline="502" endline="502" begincolumn="29" endcolumn="58" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" variable="clazzTotalOfMaximumOfOperators" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'clazzTotalOfMaximumOfOperators'.
+</violation>
+<violation beginline="511" endline="511" begincolumn="25" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="postVisit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.CompilationUnit' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="527" endline="527" begincolumn="22" endcolumn="55" rule="UnusedPrivateMethod" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="printTree" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateMethod" priority="3">
+Avoid unused private methods such as 'printTree(ClassPackage.Scope)'.
+</violation>
+<violation beginline="527" endline="527" begincolumn="32" endcolumn="49" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="printTree" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Scope' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="542" endline="542" begincolumn="30" endcolumn="43" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="visit" variable="invocationType" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'invocationType'.
+</violation>
+<violation beginline="560" endline="566" begincolumn="41" endcolumn="41" rule="CollapsibleIfStatements" ruleset="Basic" package="ClassPackage" class="AstExplorerVisitor" method="visit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="561" endline="565" begincolumn="49" endcolumn="49" rule="CollapsibleIfStatements" ruleset="Basic" package="ClassPackage" class="AstExplorerVisitor" method="visit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="573" endline="573" begincolumn="17" endcolumn="35" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="visit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Method' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="574" endline="574" begincolumn="21" endcolumn="31" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="visit" variable="methodCalls" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'methodCalls'.
+</violation>
+<violation beginline="592" endline="592" begincolumn="17" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="visit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'ClassPackage.Class' due to existing import 'ClassPackage.*'
+</violation>
+<violation beginline="593" endline="593" begincolumn="33" endcolumn="44" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="visit" variable="topClassNode" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'topClassNode'.
+</violation>
+<violation beginline="600" endline="603" begincolumn="22" endcolumn="17" rule="EmptyIfStmt" ruleset="Empty Code" package="ClassPackage" class="AstExplorerVisitor" method="visit" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/empty.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="689" endline="689" begincolumn="221" endcolumn="228" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="visit" variable="InOutDeg" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'InOutDeg'.
+</violation>
+<violation beginline="689" endline="689" begincolumn="233" endcolumn="238" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="visit" variable="PubMem" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'PubMem'.
+</violation>
+<violation beginline="950" endline="950" begincolumn="25" endcolumn="58" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="955" endline="955" begincolumn="37" endcolumn="70" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="955" endline="955" begincolumn="84" endcolumn="117" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="961" endline="961" begincolumn="64" endcolumn="65" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="DF" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'DF'.
+</violation>
+<violation beginline="961" endline="961" begincolumn="72" endcolumn="73" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="DU" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'DU'.
+</violation>
+<violation beginline="961" endline="961" begincolumn="55" endcolumn="57" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="lev" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'lev'.
+</violation>
+<violation beginline="961" endline="961" begincolumn="45" endcolumn="49" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="numOp" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'numOp'.
+</violation>
+<violation beginline="963" endline="963" begincolumn="45" endcolumn="50" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="astSub" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'astSub'.
+</violation>
+<violation beginline="972" endline="972" begincolumn="57" endcolumn="85" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="981" endline="981" begincolumn="45" endcolumn="78" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="981" endline="981" begincolumn="92" endcolumn="125" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="984" endline="984" begincolumn="45" endcolumn="50" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="astSub" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'astSub'.
+</violation>
+<violation beginline="994" endline="994" begincolumn="57" endcolumn="85" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1001" endline="1001" begincolumn="45" endcolumn="78" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1001" endline="1001" begincolumn="92" endcolumn="125" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1004" endline="1004" begincolumn="45" endcolumn="50" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="astSub" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'astSub'.
+</violation>
+<violation beginline="1012" endline="1012" begincolumn="57" endcolumn="85" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1019" endline="1019" begincolumn="45" endcolumn="78" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1019" endline="1019" begincolumn="92" endcolumn="125" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1025" endline="1025" begincolumn="37" endcolumn="42" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="astSub" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'astSub'.
+</violation>
+<violation beginline="1034" endline="1034" begincolumn="49" endcolumn="77" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1042" endline="1042" begincolumn="22" endcolumn="57" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1043" endline="1043" begincolumn="46" endcolumn="82" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1046" endline="1046" begincolumn="29" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1047" endline="1047" begincolumn="54" endcolumn="89" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1050" endline="1050" begincolumn="38" endcolumn="71" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1050" endline="1050" begincolumn="85" endcolumn="118" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1056" endline="1056" begincolumn="37" endcolumn="72" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1057" endline="1057" begincolumn="42" endcolumn="77" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1058" endline="1058" begincolumn="30" endcolumn="65" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1060" endline="1060" begincolumn="29" endcolumn="62" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1060" endline="1060" begincolumn="76" endcolumn="109" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1066" endline="1066" begincolumn="37" endcolumn="70" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1066" endline="1066" begincolumn="84" endcolumn="117" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1068" endline="1068" begincolumn="37" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1069" endline="1069" begincolumn="45" endcolumn="78" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1069" endline="1069" begincolumn="92" endcolumn="125" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1072" endline="1072" begincolumn="37" endcolumn="42" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="astSub" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'astSub'.
+</violation>
+<violation beginline="1081" endline="1081" begincolumn="49" endcolumn="77" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="1088" endline="1088" begincolumn="37" endcolumn="70" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1088" endline="1088" begincolumn="84" endcolumn="117" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'org.eclipse.jdt.core.dom.Statement' due to existing import 'org.eclipse.jdt.core.dom.*'
+</violation>
+<violation beginline="1092" endline="1092" begincolumn="29" endcolumn="34" rule="UnusedLocalVariable" ruleset="Unused Code" package="ClassPackage" class="AstExplorerVisitor" method="MST" variable="astSub" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'astSub'.
+</violation>
+<violation beginline="1101" endline="1101" begincolumn="41" endcolumn="69" rule="UselessParentheses" ruleset="Unnecessary" package="ClassPackage" class="AstExplorerVisitor" method="MST" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\bombarli\Desktop\workspace2\CMSystem\src\main\java\ClassPackage\IntegerMetric.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="27" rule="ImportFromSamePackage" ruleset="Import Statements" package="ClassPackage" class="IntegerMetric" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#ImportFromSamePackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\Users\bombarli\Desktop\workspace2\CMSystem\src\main\java\ClassPackage\Parser.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="30" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.BufferedReader'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.FileReader'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="39" rule="ImportFromSamePackage" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#ImportFromSamePackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+<violation beginline="14" endline="14" begincolumn="1" endcolumn="40" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.eclipse.core.resources.IFile'
+</violation>
+<violation beginline="15" endline="15" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.eclipse.core.resources.IProject'
+</violation>
+<violation beginline="16" endline="16" begincolumn="1" endcolumn="45" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.eclipse.core.resources.IWorkspace'
+</violation>
+<violation beginline="17" endline="17" begincolumn="1" endcolumn="50" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.eclipse.core.resources.ResourcesPlugin'
+</violation>
+<violation beginline="18" endline="18" begincolumn="1" endcolumn="38" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.eclipse.core.runtime.IPath'
+</violation>
+<violation beginline="19" endline="19" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.eclipse.core.runtime.Path'
+</violation>
+<violation beginline="20" endline="20" begincolumn="1" endcolumn="45" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Parser" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.eclipse.jdt.core.ICompilationUnit'
+</violation>
+</file>
+<file name="C:\Users\bombarli\Desktop\workspace2\CMSystem\src\main\java\ClassPackage\Statement.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="Statement" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'ClassPackage.Metric'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="27" rule="ImportFromSamePackage" ruleset="Import Statements" package="ClassPackage" class="Statement" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#ImportFromSamePackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="26" rule="ImportFromSamePackage" ruleset="Import Statements" package="ClassPackage" class="Statement" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#ImportFromSamePackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\Users\bombarli\Desktop\workspace2\CMSystem\src\main\java\ClassPackage\astStatementExplorer.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="astStatementExplorer" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'ClassPackage.IntegerMetric'
+</violation>
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="34" rule="ImportFromSamePackage" ruleset="Import Statements" package="ClassPackage" class="astStatementExplorer" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#ImportFromSamePackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="29" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="astStatementExplorer" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.AbstractSet'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="25" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="astStatementExplorer" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.HashSet'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="23" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="astStatementExplorer" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Stack'
+</violation>
+<violation beginline="23" endline="23" begincolumn="8" endcolumn="47" rule="DuplicateImports" ruleset="Import Statements" package="ClassPackage" class="astStatementExplorer" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#DuplicateImports" priority="4">
+Avoid duplicate imports such as 'org.eclipse.jdt.core.dom.CompilationUnit'
+</violation>
+<violation beginline="23" endline="23" begincolumn="1" endcolumn="48" rule="UnusedImports" ruleset="Import Statements" package="ClassPackage" class="astStatementExplorer" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.eclipse.jdt.core.dom.CompilationUnit'
+</violation>
+</file>
+</pmd>
