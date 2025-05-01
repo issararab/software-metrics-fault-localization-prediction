@@ -22,8 +22,7 @@ TBD
 
 		$bash install.sh
 
-  
-The software saves the predictions to a CSV file named 'predictions.csv'
+
 
 
 ## Data availability
