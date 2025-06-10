@@ -2,7 +2,7 @@
 Scripts, datasets, and notebooks for evaluating the predictive power of software metrics in fault localization across the Defects4J dataset buggy software versions.
 
 ## Publications
-TBD
+- Issar Arab; Kenneth Magel; and Mohammed Akour. 2025. **Evaluating the Predictive Power of Software Metrics for Fault Localization** Computers 14, no. 6: 222. https://doi.org/10.3390/computers14060222
 
 ## Prerequisites
 1- Create and activate a conda environment:
